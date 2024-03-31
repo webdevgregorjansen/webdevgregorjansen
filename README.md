@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## - 🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 1. Go
 2. Java
