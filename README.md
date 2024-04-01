@@ -17,11 +17,13 @@ A Full-Stack Developer by day ☀️ and a enthusiastic Go & Java learner by nig
 
 # Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,androidstudio,figma,prisma,vscode,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,androidstudio,figma,graphql,prisma,vscode,&perline=6)](https://skillicons.dev)
 
 # Database:
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=6)](https://skillicons.dev)
+
+
 
 ## 🌱 I’m currently learning
 
