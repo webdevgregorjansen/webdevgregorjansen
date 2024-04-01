@@ -8,14 +8,14 @@
 ## ✨ Tools i work with on a daily basis
 1. <table><tr>
   <td>
-    <pre>
+    
       	![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-    </pre>
+    
   </td>
   <td>
-    <pre>
+    
       ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-    </pre>
+    
   </td>
   <td>
     <pre>
