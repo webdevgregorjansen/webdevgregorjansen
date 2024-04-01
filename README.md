@@ -7,9 +7,17 @@ A Full-Stack Developer by day ☀️ and a enthusiastic Go learner by night 🌒
 
 ### 💻️ My Tech Stack
 
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,react,tailwind,git,docker,go,java,androidstudio,figma,prisma,vscode,postgres,mysql,&perline=6)](https://skillicons.dev)
+# Programming Languages:
 
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,go,java&perline=6)](https://skillicons.dev)
 
+# FrameWorks & Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=6)](https://skillicons.dev)
+
+# Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,androidstudio,figma,prisma,vscode,postgres,mysql,&perline=6)](https://skillicons.dev)
 
 
 ## 🌱 I’m currently learning
