@@ -11,7 +11,7 @@ A Full-Stack Developer by day ☀️ and a enthusiastic Go learner by night 🌒
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![WebDevGregor's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevgregorjansen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🌱 I’m currently learning
