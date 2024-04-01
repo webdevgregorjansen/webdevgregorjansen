@@ -9,7 +9,9 @@ A Full-Stack Developer by day ☀️ and a enthusiastic Go learner by night 🌒
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,react,tailwind,git,docker,go,java,androidstudio,figma,prisma,vscode,postgres,mysql,&perline=6)](https://skillicons.dev)
 
+### Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🌱 I’m currently learning
