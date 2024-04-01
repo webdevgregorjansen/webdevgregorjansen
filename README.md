@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Full-Stack Developer by day ☀️ and a enthusiastic Go learner by night 🌒 
+A Full-Stack Developer by day ☀️ and a enthusiastic Go & Java learner by night 🌒 
  
 
 
