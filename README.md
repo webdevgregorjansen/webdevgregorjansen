@@ -14,7 +14,7 @@ A Full-Stack Developer by day ☀️ and a enthusiastic Go & Java learner by nig
 
 # Tools & Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,androidstudio,figma,graphql,nextjs,react,tailwind,prisma,aws,vscode,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,androidstudio,figma,graphql,nextjs,react,tailwind,prisma,aws,vscode,htmx,neovim,&perline=6)](https://skillicons.dev)
 
 # Database:
 
